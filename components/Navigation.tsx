@@ -48,7 +48,7 @@ export function Navigation() {
           transition={{ delay: 0.3 }}
           className="flex gap-8"
         >
-          {["Projets", "Compétences", "Contact"].map((item, index) => (
+          {["Projets", "Compétences", "Contact"].map((item) => (
             <button
               key={item}
               onClick={() => scrollToSection(item.toLowerCase())}

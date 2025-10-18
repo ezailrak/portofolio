@@ -122,9 +122,9 @@ export function SkillsSection() {
             <h3 className="text-3xl mb-4">Vision & Philosophie</h3>
             <p className="text-lg text-white/90 leading-relaxed">
               Je crois que la technologie doit être au service de la clarté, pas
-              de la complexité. Mon objectif en tant qu'Engineering Manager est
-              de construire des systèmes simples, performants et utiles, tout en
-              faisant grandir les personnes qui les créent.
+              de la complexité. Mon objectif en tant qu&apos;Engineering Manager
+              est de construire des systèmes simples, performants et utiles,
+              tout en faisant grandir les personnes qui les créent.
             </p>
           </div>
         </motion.div>

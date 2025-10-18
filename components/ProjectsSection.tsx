@@ -135,7 +135,7 @@ export function ProjectsSection() {
         >
           <h2 className="text-5xl">Projets Clés</h2>
           <p className="text-xl text-muted-foreground max-w-3xl">
-            De la conception à la mise en production, j'ai piloté des
+            De la conception à la mise en production, j&apos;ai piloté des
             plateformes complexes couvrant télécom, géomarketing, proptech, IA
             et automatisation.
           </p>

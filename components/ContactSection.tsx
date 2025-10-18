@@ -21,7 +21,7 @@ export function ContactSection() {
             <h2 className="text-5xl">Discutons de votre projet</h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
               Je suis toujours intéressé par de nouveaux défis techniques et par
-              l&apos;opportunité de contribuer à des projets innovants.
+              l'opportunité de contribuer à des projets innovants.
             </p>
           </div>
 

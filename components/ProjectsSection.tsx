@@ -5,21 +5,21 @@ import { ProjectCard } from "./ProjectCard";
 
 const projects = [
   {
-    title: "Plateforme de gestion d&apos;incidents et de monitoring",
+    title: "Plateforme de gestion d'incidents et de monitoring",
     category: "Télécom",
     description:
-      "Centralisation de la gestion des incidents à l&apos;échelle nationale avec collecte de données en temps réel de tous les équipements du réseau (2G → 4G, fibre optique, énergie).",
+      "Centralisation de la gestion des incidents à l'échelle nationale avec collecte de données en temps réel de tous les équipements du réseau (2G → 4G, fibre optique, énergie).",
     impact: [
       "Collecte et agrégation de données multi-sources (télécom, fibre, énergie)",
       "Réduction du temps moyen de résolution de 40%",
-      "Visibilité en temps réel sur l&apos;ensemble du réseau national",
+      "Visibilité en temps réel sur l'ensemble du réseau national",
     ],
     stack: ["Node.js", "React", "Docker", "MariaDB", "ClickHouse", "RabbitMQ"],
     image:
       "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80",
   },
   {
-    title: "Outil de géomarketing et d&apos;analyse GIS",
+    title: "Outil de géomarketing et d'analyse GIS",
     category: "Géomarketing",
     description:
       "Outil de cartographie décisionnelle pour les équipes commerciales avec analyse territoriale.",
@@ -50,7 +50,7 @@ const projects = [
     title: "Proptech – Gestion documentaire intelligente",
     category: "PropTech",
     description:
-      "Automatisation de la classification et recherche documentaire dans l&apos;immobilier avec IA.",
+      "Automatisation de la classification et recherche documentaire dans l'immobilier avec IA.",
     impact: [
       "Division par 3 du temps de traitement",
       "Fiabilisation des bases contractuelles",
@@ -78,7 +78,7 @@ const projects = [
     title: "Réseau social événementiel",
     category: "Social Network",
     description:
-      "Plateforme communautaire pour la création et gestion d&apos;événements avec système de matching social.",
+      "Plateforme communautaire pour la création et gestion d'événements avec système de matching social.",
     impact: [
       "Système de notifications temps réel via WebSocket",
       "Gestion complète du cycle de vie des événements",
@@ -106,7 +106,7 @@ const projects = [
     title: "BTP – Génération de devis assistée par IA",
     category: "Construction",
     description:
-      "Chiffrage automatique de travaux à partir d&apos;images avec computer vision.",
+      "Chiffrage automatique de travaux à partir d'images avec computer vision.",
     impact: [
       "Réduction du temps de devis de plusieurs heures à quelques minutes",
       "Fiabilité et cohérence accrue",
@@ -135,7 +135,7 @@ export function ProjectsSection() {
         >
           <h2 className="text-5xl">Projets Clés</h2>
           <p className="text-xl text-muted-foreground max-w-3xl">
-            De la conception à la mise en production, j&apos;ai piloté des
+            De la conception à la mise en production, j'ai piloté des
             plateformes complexes couvrant télécom, géomarketing, proptech, IA
             et automatisation.
           </p>
